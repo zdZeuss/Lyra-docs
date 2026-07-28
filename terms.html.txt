@@ -1,0 +1,12 @@
+Terms of Service
+
+By using Lyra, you agree to use the bot in accordance with Discord's Terms of Service.
+
+The developer is not responsible for misuse of the bot.
+
+The bot may be updated, modified, or discontinued at any time.
+
+Abuse of the bot may result in restrictions.
+
+Developer:
+zeus.night.

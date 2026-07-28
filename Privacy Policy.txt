@@ -1,0 +1,19 @@
+Privacy Policy
+
+Last updated: July 2026
+
+Lyra does not sell, share, or collect personal user information except for the data required to operate Discord commands.
+
+Data that may be processed:
+
+• Discord User IDs
+• Discord Server IDs
+• Channel IDs
+• Command usage
+
+This data is only used for the operation of the bot.
+
+If you wish to request data deletion, contact the developer.
+
+Developer:
+zeus.night.
