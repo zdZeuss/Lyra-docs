@@ -1,0 +1,14 @@
+TERMOS DE SERVIÇO — LYRA LIGHT
+
+Última atualização: Novembro de 2026
+
+Ao adicionar o aplicativo "Lyra Light" a qualquer servidor do Discord, você concorda com os seguintes termos:
+
+1. USO DO SERVIÇO
+A Lyra Light é um bot de automação, moderação e utilidades fornecido pela SL Studios. O serviço é disponibilizado "como está", podendo passar por atualizações e manutenções periódicas.
+
+2. CONDUTA E RESPONSABILIDADE
+Os administradores dos servidores são integralmente responsáveis por como utilizam as ferramentas de moderação da Lyra Light em suas comunidades.
+
+3. LIMITAÇÕES
+A equipe de desenvolvimento reserva-se o direito de limitar ou suspender o acesso do bot a servidores que violem os Termos de Serviço do próprio Discord.
