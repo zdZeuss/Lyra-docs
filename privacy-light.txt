@@ -1,0 +1,17 @@
+POLÍTICA DE PRIVACIDADE — LYRA LIGHT
+
+Última atualização: Novembro de 2026
+
+A privacidade dos nossos usuários e comunidades é uma prioridade para a SL Studios.
+
+1. COLETA DE DADOS
+A Lyra Light coleta apenas dados estritamente necessários para seu funcionamento técnico:
+- IDs de servidores (Guild IDs)
+- IDs de canais e cargos configurados
+- IDs de usuários para execução de comandos e registros de aviso (warns)
+
+2. ARMAZENAMENTO E SEGURANÇA
+Nenhum dado sensível, mensagem privada ou conteúdo pessoal é armazenado ou vendido a terceiros. As informações de configuração são salvas com acesso restrito aos desenvolvedores.
+
+3. CONTATO
+Para solicitações de exclusão de dados ou dúvidas sobre privacidade, entre em contato através da nossa equipe oficial no Discord.
